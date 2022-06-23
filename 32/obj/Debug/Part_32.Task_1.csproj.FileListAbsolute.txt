@@ -1,0 +1,21 @@
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\bin\Debug\Part_32.Task_1.exe.config
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\bin\Debug\Part_32.Task_1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\bin\Debug\Part_32.Task_1.pdb
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.csproj.AssemblyReference.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.Form1.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.Properties.Resources.resources
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.csproj.GenerateResource.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.exe
+C:\Users\Жанна\OneDrive\Рабочий стол\колледж\практика {Программирование}\Отчеты\ПРАКТ.№32\Part_32.Task_1\obj\Debug\Part_32.Task_1.pdb
+C:\Users\Admin\Desktop\фыв\32\bin\Debug\Part_32.Task_1.exe.config
+C:\Users\Admin\Desktop\фыв\32\bin\Debug\Part_32.Task_1.exe
+C:\Users\Admin\Desktop\фыв\32\bin\Debug\Part_32.Task_1.pdb
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.Form1.resources
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.exe
+C:\Users\Admin\Desktop\фыв\32\obj\Debug\Part_32.Task_1.pdb
